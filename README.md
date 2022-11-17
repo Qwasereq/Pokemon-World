@@ -77,8 +77,6 @@
 
 ## Colaborators
 <h3>Adam Rzok</h3>
-<h3>Mirella Paciej</h3>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
