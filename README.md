@@ -17,9 +17,9 @@
 <h2 align="center">Pokemon-World</h2>
 
   <p align="center">
-    Project created to catalog and provide information regarding the various 
+    Project created to catalog and provide information regarding the various
     <br />
-    species of Pokémon featured in the Pokémon video game, anime and manga series.   
+    species of Pokémon featured in the Pokémon video game, anime and manga series.
     <br />
     <a href="https://github.com/Qwasereq/Pokemon-World"><strong>Explore the docs »</strong></a>
     <br />
