@@ -35,7 +35,6 @@
 
 ## Colaborators
 <h3>Adam Rzok</h3>
-<h3>Radchenko Valeria</h3>
 <h3>Mirella Paciej</h3>
 <h3>Mateusz Łuckoś</h3>
 <h3>Valeria Radczenko</h3>
