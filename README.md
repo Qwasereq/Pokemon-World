@@ -1,11 +1,4 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://www.e-kolorowanki.eu/wp-content/uploads/2021/10/logo-pokemon-originalne-kolorowanka-1.jpg" alt="Logo" width="150" height="150">
-  </a>
-
 <h2 align="center">Pokemon-World</h2>
 
   <p align="center">
@@ -25,8 +18,10 @@
 </div>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 
 
 
@@ -35,10 +30,6 @@
 
 ## Colaborators
 <h3>Adam Rzok</h3>
-<h3>Mirella Paciej</h3>
-<h3>Mateusz Łuckoś</h3>
-<h3>Valeria Radczenko</h3>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -107,12 +98,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
