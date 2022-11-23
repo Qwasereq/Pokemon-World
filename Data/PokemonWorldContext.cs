@@ -6,18 +6,11 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using PokemonWorld.Models;
 
-namespace PokemonWorld.Data
-{
-public class PokemonWorldContext : DbContext
-{
-    public PokemonWorldContext (DbContextOptions<PokemonWorldContext> options)
-        : base(options)
-    {
-    }
+namespace PokemonWorld.Data {
+  public class PokemonWorldContext : DbContext {
+    public PokemonWorldContext(DbContextOptions<PokemonWorldContext> options)
+        : base(options) {}
 
-    public DbSet<PokemonWorld.Models.Pokemon> Pokemon {
-        get;
-        set;
-    }
-}
+    public DbSet<PokemonWorld.Models.Pokemon> Pokemon { get; set; }
+  }
 }
